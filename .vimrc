@@ -1,0 +1,12 @@
+syn on
+filetype on
+set nu
+set ts=2
+set sw=2
+set et
+set sr
+set background=dark
+set ai
+set si
+set fileencoding=utf-8
+set fencs=utf-8,cp949
